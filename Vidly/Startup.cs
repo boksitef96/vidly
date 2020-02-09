@@ -9,6 +9,10 @@ namespace Vidly
         public void Configuration(IAppBuilder app)
         {
             ConfigureAuth(app);
+			//test comment 2
+			
+			//vfvfvfvfvfv
+			
         }
     }
 }
